@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 **On this page**, you will need to introduce your worklog. **How** did you complete it? How many weeks did you take to complete the program? **What** did you do in those weeks?
 
 Typically, and as a standard, a worklog is carried out over about 3 months (throughout the internship period) with weekly contents as follows:
@@ -28,12 +24,12 @@ Typically, and as a standard, a worklog is carried out over about 3 months (thro
 
 **Week 7:** [Starting project deployment using AWS services](1.7-Week7/)
 
-**Week 8:** [Endpoint Policy and Least-Privilege Access Control](1.8-Week8/)
+**Week 8:** [First full testing cycle and critical bug fixes](1.8-Week8/)
 
-**Week 9:** [Monitoring, Logging, and Troubleshooting Connectivity](1.9-Week9/)
+**Week 9:** [Deep regression testing and edge-case bug fixing](1.9-Week9/)
 
-**Week 10:** [Cost Optimization and Resource Cleanup Automation](1.10-Week10/)
+**Week 10:** [Performance and stability testing with optimization fixes](1.10-Week10/)
 
-**Week 11:** [Documentation, Blog Translation, and Knowledge Sharing](1.11-Week11/)
+**Week 11:** [Final QA/UAT cycle and release stabilization fixes](1.11-Week11/)
 
-**Week 12:** [Final Demo, Reporting, and Self-Evaluation](1.12-Week12/)
+**Week 12:** [Project closure, final demo, and submission preparation](1.12-Week12/)

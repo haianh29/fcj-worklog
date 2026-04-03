@@ -5,40 +5,55 @@ weight: 7
 chapter: false
 pre: " <b> 7. </b> "
 ---
+
 {{% notice warning %}}
 ⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
 {{% /notice %}}
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud Journey, giúp team FCJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+> Đây là phần góp ý cá nhân của em sau khi hoàn thành chương trình First Cloud Journey, với mong muốn giúp chương trình ngày càng hiệu quả cho các bạn thực tập sinh khóa sau.
 
 ### Đánh giá chung
 
-**1. Môi trường làm việc**  
-Môi trường làm việc rất thân thiện và cởi mở. Các thành viên trong FCJ luôn sẵn sàng hỗ trợ khi mình gặp khó khăn, kể cả ngoài giờ làm việc. Không gian làm việc gọn gàng, thoải mái, giúp mình tập trung tốt hơn. Tuy nhiên, mình nghĩ có thể bổ sung thêm một số buổi giao lưu hoặc team bonding để mọi người hiểu nhau hơn.
+**1. Môi trường làm việc**
+Môi trường thân thiện, cởi mở và khuyến khích học hỏi. Khi gặp vướng mắc kỹ thuật, em luôn nhận được hỗ trợ kịp thời từ team. Không khí làm việc tích cực giúp em duy trì tinh thần tốt trong các giai đoạn cần tập trung cao như deploy, regression và fix lỗi.
 
-**2. Sự hỗ trợ của mentor / team admin**  
-Mentor hướng dẫn rất chi tiết, giải thích rõ ràng khi mình chưa hiểu và luôn khuyến khích mình đặt câu hỏi. Team admin hỗ trợ các thủ tục, tài liệu và tạo điều kiện để mình làm việc thuận lợi. Mình đánh giá cao việc mentor cho phép mình thử và tự xử lý vấn đề thay vì chỉ đưa đáp án.
+**2. Sự hỗ trợ của mentor / team admin**
+Mentor theo sát tiến độ, phản hồi rõ ràng theo từng vòng review và định hướng xử lý vấn đề theo thứ tự ưu tiên. Team admin hỗ trợ thủ tục, tài nguyên học tập và lịch làm việc hiệu quả. Cách hỗ trợ này giúp em tự chủ hơn thay vì phụ thuộc hoàn toàn vào hướng dẫn chi tiết.
 
-**3. Sự phù hợp giữa công việc và chuyên ngành học**  
-Công việc mình được giao phù hợp với kiến thức mình đã học ở trường, đồng thời mở rộng thêm những mảng mới mà mình chưa từng được tiếp cận. Nhờ vậy, mình vừa củng cố kiến thức nền tảng, vừa học thêm kỹ năng thực tế.
+**3. Mức độ phù hợp giữa công việc và chuyên ngành**
+Công việc thực tập bám sát chuyên ngành và có tính ứng dụng cao: xây dựng UI, tích hợp API, deploy cloud, test/fix theo vòng đời dự án. Điều này giúp em vừa củng cố nền tảng đã học, vừa bổ sung kinh nghiệm thực chiến.
 
-**4. Cơ hội học hỏi & phát triển kỹ năng**  
-Trong quá trình thực tập, mình học được nhiều kỹ năng mới như sử dụng công cụ quản lý dự án, kỹ năng làm việc nhóm, và cả cách giao tiếp chuyên nghiệp trong môi trường công ty. Mentor cũng chia sẻ nhiều kinh nghiệm thực tế giúp mình định hướng tốt hơn cho sự nghiệp.
+**4. Cơ hội học hỏi và phát triển kỹ năng**
+Chương trình cho em cơ hội phát triển đồng thời kỹ năng kỹ thuật và kỹ năng mềm:
 
-**5. Văn hóa & tinh thần đồng đội**  
-Văn hóa công ty rất tích cực: mọi người tôn trọng lẫn nhau, làm việc nghiêm túc nhưng vẫn vui vẻ. Khi có dự án gấp, mọi người cùng nhau cố gắng, hỗ trợ không phân biệt vị trí. Điều này giúp mình cảm thấy mình là một phần của tập thể, dù chỉ là thực tập sinh.
+- Kỹ thuật: tích hợp backend, xử lý bug theo mức độ ưu tiên, kiểm thử regression/smoke, chuẩn bị release.
+- Kỹ năng làm việc: quản lý tiến độ, báo cáo trạng thái, giao tiếp với mentor/team theo ngữ cảnh kỹ thuật.
 
-**6. Chính sách / phúc lợi cho thực tập sinh**  
-Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về thời gian linh hoạt khi cần thiết. Ngoài ra, việc được tham gia các buổi đào tạo nội bộ là một điểm cộng lớn.
+**5. Văn hóa và tinh thần đồng đội**
+Team có tinh thần hỗ trợ cao, tôn trọng lẫn nhau và hợp tác tốt khi xử lý issue gấp. Đây là điểm em đánh giá rất tích cực vì giúp thực tập sinh mới dễ hòa nhập và chủ động đóng góp.
 
+**6. Chính sách / trải nghiệm dành cho thực tập sinh**
+Lộ trình học và làm việc rõ ràng, có checkpoint theo tuần, phù hợp với người mới. Các buổi trao đổi định kỳ giúp em nhìn được tiến độ và chất lượng công việc một cách minh bạch.
 
-### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+### Trả lời nhanh các câu hỏi chính
 
+**Điều em hài lòng nhất:**
 
-### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
-- Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+- Được làm dự án theo quy trình gần thực tế và có mentor phản hồi sát sao.
+- Kiến thức học được có thể áp dụng ngay, đặc biệt ở giai đoạn API integration, deploy và test/fix.
+
+**Điều em nghĩ chương trình có thể cải thiện:**
+
+- Bổ sung bộ checklist onboarding chuẩn ngay tuần đầu để giảm thời gian làm quen.
+- Tăng số lượng ví dụ bug thực tế và cách phân tích root cause cho từng nhóm lỗi phổ biến.
+
+**Có giới thiệu cho bạn bè thực tập tại đây không:**
+
+- Có. Vì chương trình có môi trường học tập tốt, lộ trình rõ, mentor hỗ trợ chất lượng và khối lượng công việc đủ thực tế để phát triển nhanh.
+
+### Đề xuất và mong muốn
+
+- Thiết kế một "starter pack" cho intern mới gồm tài liệu setup, quy ước làm việc, và mẫu báo cáo theo tuần.
+- Duy trì lịch review cố định hằng tuần để đồng bộ tiến độ và xử lý rủi ro sớm.
+- Tổ chức thêm các buổi chia sẻ nội bộ ngắn theo chủ đề (deploy checklist, test strategy, debugging patterns).
+- Em mong muốn được tiếp tục tham gia các hoạt động chuyên sâu của chương trình trong giai đoạn tiếp theo.

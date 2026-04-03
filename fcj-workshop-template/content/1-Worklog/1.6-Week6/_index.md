@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 1.6. </b> "
 ---
 
-{{% notice warning %}}
-**Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 6 Objectives:
 
@@ -24,7 +22,7 @@ pre: " <b> 1.6. </b> "
 | 3   | - Integrate remaining endpoints for role-based flows and verify request/response mapping   | 02/10/2026 | 02/10/2026      | <https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication>     |
 | 4   | - Refactor UI forms/tables to align backend fields, enums, and validation constraints      | 02/11/2026 | 02/11/2026      | <https://json-schema.org/learn/getting-started-step-by-step>           |
 | 5   | - Handle edge cases (loading, timeout, empty result, API error) and improve user feedback  | 02/12/2026 | 02/12/2026      | <https://react.dev/learn/synchronizing-with-effects>                   |
-| 6   | - Run end-to-end integration tests with mentor/team and define Week 7 optimization backlog | 02/13/2026 | 02/13/2026      | <https://cloudjourney.awsstudygroup.com/>                              |
+| 6   | - Run end-to-end integration tests with team and define Week 7 optimization backlog | 02/13/2026 | 02/13/2026      | <https://cloudjourney.awsstudygroup.com/>                              |
 
 ### Week 6 Achievements:
 

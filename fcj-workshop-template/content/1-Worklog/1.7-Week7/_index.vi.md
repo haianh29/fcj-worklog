@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 1.7. </b> "
 ---
 
-{{% notice warning %}}
-**Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 ### Mục tiêu tuần 7:
 
@@ -24,7 +22,7 @@ pre: " <b> 1.7. </b> "
 | 3   | - Cấu hình môi trường deploy, IAM role và biến runtime cho môi trường staging                | 17/02/2026   | 17/02/2026      | <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>                                              |
 | 4   | - Deploy phiên bản đầu tiên của dự án lên AWS và kiểm tra health check dịch vụ               | 18/02/2026   | 18/02/2026      | <https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html> |
 | 5   | - Xử lý lỗi khi deploy, đồng bộ API endpoint và kiểm tra kết nối frontend-backend trên cloud | 19/02/2026   | 19/02/2026      | <https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html>                                |
-| 6   | - Demo môi trường đã deploy với mentor/team và lập danh sách hardening cho tuần 8            | 20/02/2026   | 20/02/2026      | <https://cloudjourney.awsstudygroup.com/>                                                                           |
+| 6   | - Demo môi trường đã deploy với team và lập danh sách hardening cho tuần 8            | 20/02/2026   | 20/02/2026      | <https://cloudjourney.awsstudygroup.com/>                                                                           |
 
 ### Kết quả đạt được tuần 7:
 

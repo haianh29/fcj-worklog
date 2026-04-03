@@ -5,28 +5,27 @@ weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
 ---
-{{% notice warning %}}
- **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 ### Week 8 Objectives:
 
-* Apply endpoint policy and bucket policy patterns for strict least-privilege S3 access.
-* Validate deny-by-default behavior with controlled allow rules.
+- Start the first full project testing cycle after deployment.
+- Identify and fix high-priority defects in core role-based workflows.
+- Improve API and UI consistency based on real test results.
 
 ### Tasks to be carried out this week:
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | ---- | ---------- | --------------- | ------------------ |
-| 2 | - Plan execution scope for objective: Apply endpoint policy and bucket policy patterns for strict least-privilege S3 access. | 02/23/2026 | 02/23/2026 | <https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html> |
-| 3 | - Implement and validate objective: Validate deny-by-default behavior with controlled allow rules. | 02/24/2026 | 02/24/2026 | <https://docs.aws.amazon.com/vpc/latest/privatelink/vpc-endpoints-access.html> |
-| 4 | - Execute practical steps, run checks, and capture evidence | 02/25/2026 | 02/25/2026 | <https://docs.aws.amazon.com/AmazonS3/latest/userguide/example-bucket-policies-vpc-endpoint.html> |
-| 5 | - Update documentation, refine outputs, and resolve issues | 02/26/2026 | 02/26/2026 | <https://docs.aws.amazon.com/AmazonS3/latest/userguide/access-policy-language-overview.html> |
-| 6 | - Weekly review with mentor and summarize lessons learned | 02/27/2026 | 02/27/2026 | <https://docs.aws.amazon.com/whitepapers/latest/security-overview-amazon-s3/iam-policies.html> |
+
+| Day | Task                                                                                 | Start Date | Completion Date | Reference Material                                                                         |
+| --- | ------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------------------------------------ |
+| 2   | - Create test plan, test cases, and acceptance criteria for key project flows        | 02/23/2026 | 02/23/2026      | <https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing> |
+| 3   | - Execute functional and integration tests for authentication and role-based modules | 02/24/2026 | 02/24/2026      | <https://www.postman.com/api-platform/api-testing/>                                        |
+| 4   | - Triage defects, reproduce issues, and fix high-severity bugs first                 | 02/25/2026 | 02/25/2026      | <https://martinfowler.com/articles/nonDeterminism.html>                                    |
+| 5   | - Re-test fixed defects and run targeted regression on impacted components           | 02/26/2026 | 02/26/2026      | <https://playwright.dev/docs/intro>                                                        |
+| 6   | - Review defect metrics with mentor/team and prepare Week 9 bug backlog              | 02/27/2026 | 02/27/2026      | <https://cloudjourney.awsstudygroup.com/>                                                  |
 
 ### Week 8 Achievements:
 
-* Implemented endpoint and bucket policy controls aligned with least privilege.
-* Verified deny-by-default behavior with targeted access exceptions.
-* Built repeatable test scenarios for multi-role access validation.
-* Reduced policy sprawl by consolidating reusable statements.
-* Delivered a policy pack ready for production-style review.
+- Completed the first end-to-end testing round for deployed project modules.
+- Fixed critical blockers in login flow, role routing, and API data mapping.
+- Improved validation messages and fallback UI states using real defect evidence.
+- Established a bug tracking sheet with severity, status, and root-cause notes.
+- Prepared a prioritized defect list for the next testing sprint.

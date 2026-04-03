@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 1.7. </b> "
 ---
 
-{{% notice warning %}}
-**Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
+
 
 ### Week 7 Objectives:
 
@@ -24,7 +22,7 @@ pre: " <b> 1.7. </b> "
 | 3   | - Configure deployment environment, IAM roles, and runtime variables for staging                  | 02/17/2026 | 02/17/2026      | <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>                                              |
 | 4   | - Deploy the first project version to AWS and verify service health checks                        | 02/18/2026 | 02/18/2026      | <https://docs.aws.amazon.com/whitepapers/latest/practicing-continuous-integration-continuous-delivery/welcome.html> |
 | 5   | - Fix deployment issues, align API endpoints, and validate frontend-backend connectivity in cloud | 02/19/2026 | 02/19/2026      | <https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html>                                |
-| 6   | - Demo the deployed environment to mentor/team and define Week 8 hardening tasks                  | 02/20/2026 | 02/20/2026      | <https://cloudjourney.awsstudygroup.com/>                                                                           |
+| 6   | - Demo the deployed environment to team and define Week 8 hardening tasks                  | 02/20/2026 | 02/20/2026      | <https://cloudjourney.awsstudygroup.com/>                                                                           |
 
 ### Week 7 Achievements:
 

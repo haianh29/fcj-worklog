@@ -10,35 +10,64 @@ pre: " <b> 4. </b> "
 ⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
 {{% /notice %}}
 
-> In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
-> 
-> Each event should be presented in the format Event 1, Event 2, Event 3…, along with the following details:
-> * Event name
-> * Date and time
-> * Location (if applicable)
-> * Your role in the event (attendee, event support, speaker, etc.)
-> * A brief description of the event’s content and main activities
-> * Outcomes or value gained (lessons learned, new skills, contribution to the team/project)
-> * This listing helps demonstrate your actual participation as well as the soft skills and experience you have gained from each event.
+> This section summarizes the events I joined during my internship, highlighting what I participated in and what I learned from each activity.
+>
+> Each event is presented with:
+>
+> - Event name
+> - Date and time
+> - Venue
+> - Participation role
+> - Key activities and topics
+> - Outcomes, lessons learned, and practical value
 
-During my internship, I participated in two events. Each one was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
+During the internship period, I joined two representative events. Both gave me useful exposure to AI, Cloud technologies, and practical product development thinking.
 
-### [Event 1](4.1-Event1/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+### [Event 1](4.1-Event1/)
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+&emsp;**Event Name:** Cloud Mastery AI From Scratch
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Date & Time:** 09:00, February 14, 2026
 
-&emsp;**Role:** Attendee  
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 
----
+&emsp;**Role:** Attendee
 
-### [Event 2](4.2-Event2/)  
-&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop  
+&emsp;**Main content and activities:**
 
-&emsp;**Date & Time:** 09:00, August 13, 2025  
+- Joined the session "Automated Prompt Engineering: Enhancing LLM Output Quality".
+- Learned an effective prompt structure using role, instruction, context, examples, and constraints.
+- Explored advanced techniques such as Chain-of-Thought, RAG, and role prompting.
+- Received practical guidance on how beginners can start building AI Agents.
+- Observed two real-world projects: Locker Management (AIoT) and Plutus (expense management with OCR via Amazon Textract).
+- Participated in Q&A discussions on AI, Cloud, and IoT topics.
 
-&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+&emsp;**Outcomes and value gained:**
 
-&emsp;**Role:** Attendee  
+- Strengthened my foundation in Prompt Engineering and effective LLM usage.
+- Gained a clearer view of AI Agent development and AI integration with AWS Cloud services.
+- Improved listening, questioning, and critical-thinking skills.
+- Better understood how to transform theory into deployable real-world solutions.
+
+### [Event 2](4.2-Event2/)
+
+&emsp;**Event Name:** GenAI-powered App-DB Modernization workshop
+
+&emsp;**Date & Time:** 09:00, August 13, 2025
+
+&emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+
+&emsp;**Role:** Attendee
+
+&emsp;**Main content and activities:**
+
+- Learned practical approaches for modernizing applications and databases on AWS.
+- Explored Domain-Driven Design (DDD), event-driven architecture, and microservice decomposition.
+- Reviewed how to choose suitable compute options across EC2, ECS, Fargate, and Lambda.
+- Discussed how Amazon Q Developer can support software delivery workflows.
+
+&emsp;**Outcomes and value gained:**
+
+- Improved system design mindset with a business-first and phased modernization approach.
+- Understood trade-offs between synchronous and asynchronous communication patterns.
+- Gained practical references for architecture evaluation and optimization in future projects.
