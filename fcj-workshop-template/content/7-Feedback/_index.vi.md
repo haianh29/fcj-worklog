@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 > Đây là phần góp ý cá nhân của em sau khi hoàn thành chương trình First Cloud Journey, với mong muốn giúp chương trình ngày càng hiệu quả cho các bạn thực tập sinh khóa sau.
 

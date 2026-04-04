@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+
 
 During my internship in the **First Cloud Journey (FCJ)** program from **January 5, 2026** to **March 27, 2026**, I participated in a full practical delivery cycle: learning AWS foundations, building role-based UI modules, integrating APIs, deploying to cloud services, and running multiple rounds of testing and bug fixing before final submission.
 

@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 Trong thời gian thực tập tại chương trình **First Cloud Journey (FCJ)** từ **05/01/2026** đến **27/03/2026**, em đã tham gia xuyên suốt vòng đời triển khai một dự án thực tế: từ giai đoạn tìm hiểu dịch vụ AWS, xây dựng UI theo vai trò, tích hợp API, deploy lên cloud, đến kiểm thử và hoàn thiện hồ sơ nộp cuối kỳ.
 

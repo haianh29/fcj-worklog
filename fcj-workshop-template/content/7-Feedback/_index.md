@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
 > This is my personal feedback after completing the First Cloud Journey program, with the goal of helping improve the experience for future interns.
 
 ### Overall Evaluation

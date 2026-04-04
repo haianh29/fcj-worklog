@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+
 
 > This section summarizes the events I joined during my internship, highlighting what I participated in and what I learned from each activity.
 >

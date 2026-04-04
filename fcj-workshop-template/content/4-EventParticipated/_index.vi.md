@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Lưu ý:** Các thông tin dưới đây chỉ nhằm mục đích tham khảo, vui lòng **không sao chép nguyên văn** cho bài báo cáo của bạn kể cả warning này.
-{{% /notice %}}
+
 
 > Mục này tổng hợp các sự kiện em đã tham gia trong thời gian thực tập, tập trung vào thông tin chính và giá trị thực tế sau mỗi hoạt động.
 >
